@@ -1,0 +1,20 @@
+{
+  "author": "Austin Code Dojo",
+  "name": "TaleOfTwoMongos",
+  "description": "A simple map reduce exercise to count the words in Tale of Two Cities",
+  "version": "0.0.1",
+  "main": "main",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "dependencies": {
+    "mongoose": "*"
+  },
+  "devDependencies": {
+    "jasmine-node": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
